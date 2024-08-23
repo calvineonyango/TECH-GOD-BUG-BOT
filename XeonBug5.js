@@ -222,7 +222,7 @@ async function loading () {
 var xeonlod = [
 "《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
 "《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒Tech-God▒▒▒》50%",
+"《 ███████▒▒𝛸-𝐹𝛩𝑅𝐶𝛯-𝛭𝐷 𝛻2▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🐛..."
@@ -974,7 +974,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the Tech God wa.me/917466008456 😉`
+                let teks = `Hi ${pushname}👋\nWant to Buy Premium? Just chat with the T𝐃𝚵𝛁𝚵𝐋𝚯𝚸𝚵𝚪 wa.me/254796281776 😉`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -982,7 +982,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `${ownername}`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://telegra.ph/file/392423871c06082890b1d.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -1002,7 +1002,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             showAdAttribution: true,
                             title: `${botname}`,
                             body: `youtube Tech God`,
-                            thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
+                            thumbnailUrl: 'https://telegra.ph/file/392423871c06082890b1d.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
                             renderLargerThumbnail: true
